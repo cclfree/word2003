@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>워드 2003 cclfree</title>
+  <subtitle>워드 2003에 대한 거의 모든 것</subtitle>
+  <link href="/feed.xml" rel="self"/>
+  
+  <link href="http://word2003.cclfree.cf/"/>
+  <updated>2016-12-26T02:09:26.816Z</updated>
+  <id>http://word2003.cclfree.cf/</id>
+  
+  <author>
+    <name>cclfree</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>주소록 만들기</title>
+    <link href="http://word2003.cclfree.cf/2016/12/23/%EC%A3%BC%EC%86%8C%EB%A1%9D_%EB%A7%8C%EB%93%A4%EA%B8%B0/"/>
+    <id>http://word2003.cclfree.cf/2016/12/23/주소록_만들기/</id>
+    <published>2016-12-23T00:00:00.000Z</published>
+    <updated>2016-12-26T02:09:26.816Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">실습자료 :</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span class="imageblock" style="display:inline-block;;height:auto;max-width:100%"><a href="http://77story.tistory.com/attachment/cfile24.uf@243E1442585C8E5F03BC49.xls" rel="external nofollow noopener noreferrer" target="_blank"><img alt="" src="//i1.daumcdn.net/cfs.tistory/resource/9595f161c44651200ec5f6a69cadb5c525fb9c25/blog/image/extension/xls.gif" style="vertical-align: middle;"> address.xls</a></span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold"></span> </p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold"></span> </p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">먼저 ‘학번’ 순으로 정렬하고, 같은 학번일 경우 ‘이름’ 순으로 정렬하고 싶은데, 어떻게 해야 하나요?</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">주소록 ‘학번’ 필드명 셀에 셀 포인터 위치시키고, [데이터 - 정렬]. 정렬 기준으로 ‘학번’, ‘기준 추가’ 후 다음 기준으로 ‘이름’을 선택합니다. 2003의 경우, 첫째 기준으로 ‘학번’, 둘째 기준으로 ‘이름’을 선택합니다.</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 13pt; FONT-WEIGHT: bold"></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">‘이름’ 필드 앞에 ‘번호’ 필드를 넣고 싶은데, 어떻게 해야 하나요?</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">‘이름’ 필드가 있는 A열 전체를 선택하고, 우클릭 후, ‘삽입’을 합니다.</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 13pt; FONT-WEIGHT: bold"></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">필드명이 있는 첫 번째 행을 빼고, 나머지 2번 행에서 51번 행까지 행 높이를 좀 여유 있게 높게 하고 싶은데, 어떻게 해야 하나요?</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">2번 행번호부터 51번 행번호까지 행 전체를 선택하고, 우클릭 후, ‘행 높이’를 실행합니다. 행 높이로 ‘20’을 줍니다.</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 13pt; FONT-WEIGHT: bold"></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">필드명 위에 주소록 제목으로 ‘동창회 주소록’이라고 멋지게 적고 싶은데, 어떻게 해야 하나요?</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">우선 넣을 공간을 만들고, ‘삽입’ 메뉴의 ‘WordArt(워드아트)’를 실행합니다(2003의 경우 [삽입 - 그림 - WordArt]입니다). 워드아트를 이동하려면 개체 테두리 선을 드래그 합니다. 워드아트의 모양을 바꾸려면, 워드아트 위에서 우클릭 후 ‘텍스트 효과 서식’을 실행합니다(2003의 경우 그림자를 넣으려면, 그리기 도구에서 ‘그림자 스타일’을 실행해야 합니다).</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 13pt; FONT-WEIGHT: bold"></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">인쇄될 모양을 보려면 어떻게 하나요?</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold"><a href="2003은 [파일 - 인쇄 미리보기]">파일 - 인쇄</a>.</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 13pt; FONT-WEIGHT: bold"></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">두 번째 페이지에도 필드명이 표시되도록 하려면 어떻게 해야 하나요?</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold"><a href="2003은 [파일 - 페이지 설정]">페이지 레이아웃 - 인쇄 제목</a>. ‘시트’ 탭에서 ‘반복할 행’ 입력칸 클릭 후, 필드명 있는 셀 클릭합니다.</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 13pt; FONT-WEIGHT: bold"></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">같은 학번끼리는 셀을 하나로 병합하고 세로쓰기를 하고 싶은데, 어떻게 해야 하나요?</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">같은 학번들을 선택하고 ‘셀 서식’을 실행합니다. ‘맞춤’ 탭에서 ‘셀 병합’을 체크하고 ‘방향’을 세로 텍스트로 선택합니다.</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 13pt; FONT-WEIGHT: bold"></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">인쇄할 때 주소록을 페이지 좌우 가운데에 놓고 싶은데, 어떻게 해야 하나요?</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><!--?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /-->&lt;?xml:namespace prefix = “v” /&gt;<v:shapetype coordsize="21600,21600" filled="f" id="_x0000_t75" o:preferrelative="t" o:spt="75" path="m@4@5l@4@11@9@11@9@5xe" stroked="f"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path gradientshapeok="t" o:connecttype="rect" o:extrusionok="f"></v:path><!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /-->&lt;?xml:namespace prefix = “o” /&gt;<o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x64616416" style="HEIGHT: 10.8pt; WIDTH: 12pt; v-text-anchor: top" type="#_x0000_t75"><v:imagedata o:title="EMB00000ed035ec" src="file:///C:\DOCUME~1\gratiae\LOCALS~1\Temp\Hnc\BinData\EMB00000ed035ec.bmp"></v:imagedata><!--?xml:namespace prefix = w ns = "urn:schemas-microsoft-com:office:word" /-->&lt;?xml:namespace prefix = “w” /&gt;<w:wrap type="topAndBottom"></w:wrap></v:shape><span style="FONT-SIZE: 14pt; FONT-WEIGHT: bold">[페이지 레이아웃 - 페이지 설정]의 대화 상자 시작 관리자()를 실행합니다(2003은 [파일 - 페이지 설정]). ‘여백’ 탭에서 ‘페이지 가운데 맞춤’의 ‘가로’를 체크합니다.</span></p><p></p>
+<p></p><p class="바탕글" style="LINE-HEIGHT: 150%; -ms-layout-grid-mode: char"><span style="FONT-SIZE: 13pt; FONT-WEIGHT: bold"></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p><span style="FONT-SIZE: 16px"><strong></strong></span><span style="FONT-SIZE: 14pt"> </span></p><span style="FONT-SIZE: 16px"><p></p>
+<p></p><p><span style="FONT-SIZE: 16px"><strong><span style="FONT-SIZE: 14pt">적정한 예산액을 어떻게 구하나요?</span><br><span id="callbacknestcomjoy21tistorycom1045029" style="HEIGHT: 1px; WIDTH: 1px; FLOAT: right"></span><span style="FONT-SIZE: 14pt">수입총액 <em> 예산 비율. =$B$1</em>B5.</span></strong></span></p><p></p>
+<p></p><p><span style="FONT-SIZE: 16px"><strong></strong></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p><span style="FONT-SIZE: 16px"><strong><span style="FONT-SIZE: 14pt">예산과 지출의 대차대조는 어떻게 계산하나요?</span><br><span style="FONT-SIZE: 14pt">적정 예산액 - 수입액. =C5-E5.</span></strong></span></p><p></p>
+<p></p><p><span style="FONT-SIZE: 16px"><strong></strong></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p><span style="FONT-SIZE: 16px"><strong><span style="FONT-SIZE: 14pt">대차대조 결과 금액이 음수(-)이면, ‘예산초과’, 양수(+)이면, ‘OK’를 자동으로 입력하려면 어떻게 해야 하나요?</span><br><span style="FONT-SIZE: 14pt">IF 함수를 이용하여, 대차대조가 0보다 크면 ‘OK’, 그렇지 않으면 ‘예산 초과’. =IF(F5&gt;0,”OK”,”예산초과”)</span></strong></span></p><p></p>
+<p></p><p><span style="FONT-SIZE: 16px"></span><span style="FONT-SIZE: 14pt"> </span></p><p></p>
+<p></p><p><span style="FONT-SIZE: 16px"><strong><span style="FONT-SIZE: 14pt">‘예산초과’ 글자색을 빨간 색으로 자동으로 바꾸려면 어떻게 하나요?</span><br><span style="FONT-SIZE: 14pt">‘조건부 서식’을 사용합니다. ‘셀 값이’(‘셀 강조 규칙’) ‘다음값과 같음’(‘같음’) ‘예산초과’. ‘서식’에서 글자색으로 빨간 색(‘빨간 텍스트’).</span><br></strong></span></p><p></p>
+<p></p><p></p></span><p></p>
+<p></p><p><br><font size="5"><strong><span style="FONT-SIZE: 14pt">결과물</span> :  </strong></font></p><p></p><p></p>
+<p></p><p><span class="imageblock" style="display:inline-block;;height:auto;max-width:100%"><a href="http://77story.tistory.com/attachment/cfile29.uf@232C3345585C8E862C96F2.xls" rel="external nofollow noopener noreferrer" target="_blank"><img alt="" src="//i1.daumcdn.net/cfs.tistory/resource/9595f161c44651200ec5f6a69cadb5c525fb9c25/blog/image/extension/xls.gif" style="vertical-align: middle;"> address1.xls</a></span></p> <div class="entry-ccl" style="float:right;margin-top:0;height:0"><br><a href="http://creativecommons.org/licenses/by/4.0/deed.ko" style="text-decoration: none" target="_blank" rel="external nofollow noopener noreferrer"><br><img alt="저작자 표시" class="entry-ccl-by" id="ccl-icon-75-0" src="//i1.daumcdn.net/cfs.tistory/resource/9595f161c44651200ec5f6a69cadb5c525fb9c25/static/admin/editor/ccl_black01.png" style="width:15px;height:15px"><br><!--
+    <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <Work rdf:about="">
+            <license rdf:resource="http://creativecommons.org/licenses/by-fr/2.0/kr/" />
+        </Work>
+        <License rdf:about="http://creativecommons.org/licenses/by-fr/">
+            <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+            <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+            <requires rdf:resource="http://web.resource.org/cc/Notice"/>
+            <requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+            <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+        </License>
+    </rdf:RDF>
+    --><br></a><br></div><p></p><p></p><p></p><p></p><p></p><p></p>—<br>원문 출처 : <a href="http://77story.tistory.com/75" rel="external nofollow noopener noreferrer" target="_blank">주소록 만들기</a><br>본 컨텐츠는 CCL 라이센스를 포함한 저작권법에 따라 웹에서 수집한 것입니다.<br>수집에 불편함이 있으시다면 언제든지 <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">메일</a>로 연락주세요.<p></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;바탕글&quot; style=&quot;LINE-HEIGHT: 150%; -ms-layout-grid-mode: char&quot;&gt;&lt;span style=&quot;FONT-SIZE: 14pt; FONT-WEIGHT: bold&quot;&gt;실습자료 :&lt;/span&gt;&lt;/
+    
+    </summary>
+    
+    
+      <category term="만들기" scheme="http://word2003.cclfree.cf/tags/%EB%A7%8C%EB%93%A4%EA%B8%B0/"/>
+    
+      <category term="주소록" scheme="http://word2003.cclfree.cf/tags/%EC%A3%BC%EC%86%8C%EB%A1%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>무료 오픈 오피스 OpenOffice 프로그램 사용방법 후기</title>
+    <link href="http://word2003.cclfree.cf/2016/12/19/%EB%AC%B4%EB%A3%8C_%EC%98%A4%ED%94%88_%EC%98%A4%ED%94%BC%EC%8A%A4_OpenOffice_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95_%ED%9B%84%EA%B8%B0/"/>
+    <id>http://word2003.cclfree.cf/2016/12/19/무료_오픈_오피스_OpenOffice_프로그램_사용방법_후기/</id>
+    <published>2016-12-19T00:00:00.000Z</published>
+    <updated>2016-12-26T02:08:37.365Z</updated>
+    
+    <content type="html"><![CDATA[<p>저장을 눌러 MS워드와 호환을 만들수 있습니다. 위 이미지처럼 <ms워드 97-2003=""> 으로 저장하면 MS워드파일에서도 열립니다. 이렇게 저장 하시면 됩니다. 저장하실때…—<br>원문 출처 : <a href="http://markseo.tistory.com/199" rel="external nofollow noopener noreferrer" target="_blank">무료 오픈 오피스 OpenOffice 프로그램 사용방법 후기</a><br>본 컨텐츠는 CCL 라이센스를 포함한 저작권법에 따라 웹에서 수집한 것입니다.<br>수집에 불편함이 있으시다면 언제든지 <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">메일</a>로 연락주세요.</ms워드></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;저장을 눌러 MS워드와 호환을 만들수 있습니다. 위 이미지처럼 &lt;ms워드 97-2003=&quot;&quot;&gt; 으로 저장하면 MS워드파일에서도 열립니다. 이렇게 저장 하시면 됩니다. 저장하실때…—&lt;br&gt;원문 출처 : &lt;a href=&quot;http://markseo.t
+    
+    </summary>
+    
+    
+      <category term="오피스" scheme="http://word2003.cclfree.cf/tags/%EC%98%A4%ED%94%BC%EC%8A%A4/"/>
+    
+      <category term="오픈" scheme="http://word2003.cclfree.cf/tags/%EC%98%A4%ED%94%88/"/>
+    
+      <category term="무료" scheme="http://word2003.cclfree.cf/tags/%EB%AC%B4%EB%A3%8C/"/>
+    
+      <category term="프로그램" scheme="http://word2003.cclfree.cf/tags/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/"/>
+    
+      <category term="OpenOffice" scheme="http://word2003.cclfree.cf/tags/OpenOffice/"/>
+    
+      <category term="사용방법" scheme="http://word2003.cclfree.cf/tags/%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/"/>
+    
+      <category term="후기" scheme="http://word2003.cclfree.cf/tags/%ED%9B%84%EA%B8%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>무료 오피스 프로그램 사용방법 리브레오피스 (libreoffice</title>
+    <link href="http://word2003.cclfree.cf/2016/12/07/%EB%AC%B4%EB%A3%8C_%EC%98%A4%ED%94%BC%EC%8A%A4_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95_%EB%A6%AC%EB%B8%8C%EB%A0%88%EC%98%A4%ED%94%BC%EC%8A%A4__libreoffice/"/>
+    <id>http://word2003.cclfree.cf/2016/12/07/무료_오피스_프로그램_사용방법_리브레오피스__libreoffice/</id>
+    <published>2016-12-07T00:00:00.000Z</published>
+    <updated>2016-12-26T02:08:59.633Z</updated>
+    
+    <content type="html"><![CDATA[<p>다른 이름 저장하시고 파일 형식을 MS 워드 2007-2013으로 저장을 합니다. 보통…많이 저장하고 호환이 되는 EXCEL97-2003서식 파일로 저장합니다. 이렇게 다른 메뉴…—<br>원문 출처 : <a href="http://markseo.tistory.com/177" rel="external nofollow noopener noreferrer" target="_blank">무료 오피스 프로그램 사용방법 리브레오피스 (libreoffice</a><br>본 컨텐츠는 CCL 라이센스를 포함한 저작권법에 따라 웹에서 수집한 것입니다.<br>수집에 불편함이 있으시다면 언제든지 <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">메일</a>로 연락주세요.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;다른 이름 저장하시고 파일 형식을 MS 워드 2007-2013으로 저장을 합니다. 보통…많이 저장하고 호환이 되는 EXCEL97-2003서식 파일로 저장합니다. 이렇게 다른 메뉴…—&lt;br&gt;원문 출처 : &lt;a href=&quot;http://markseo.
+    
+    </summary>
+    
+    
+      <category term="오피스" scheme="http://word2003.cclfree.cf/tags/%EC%98%A4%ED%94%BC%EC%8A%A4/"/>
+    
+      <category term="무료" scheme="http://word2003.cclfree.cf/tags/%EB%AC%B4%EB%A3%8C/"/>
+    
+      <category term="프로그램" scheme="http://word2003.cclfree.cf/tags/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/"/>
+    
+      <category term="사용방법" scheme="http://word2003.cclfree.cf/tags/%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/"/>
+    
+      <category term="리브레오피스" scheme="http://word2003.cclfree.cf/tags/%EB%A6%AC%EB%B8%8C%EB%A0%88%EC%98%A4%ED%94%BC%EC%8A%A4/"/>
+    
+      <category term="libreoffice" scheme="http://word2003.cclfree.cf/tags/libreoffice/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>네이버에서 무료 제공하는 기획서 보고서 양식 샘플 자료실</title>
+    <link href="http://word2003.cclfree.cf/2016/12/06/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%97%90%EC%84%9C_%EB%AC%B4%EB%A3%8C_%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94_%EA%B8%B0%ED%9A%8D%EC%84%9C_%EB%B3%B4%EA%B3%A0%EC%84%9C_%EC%96%91%EC%8B%9D_%EC%83%98%ED%94%8C_%EC%9E%90%EB%A3%8C%EC%8B%A4/"/>
+    <id>http://word2003.cclfree.cf/2016/12/06/네이버에서_무료_제공하는_기획서_보고서_양식_샘플_자료실/</id>
+    <published>2016-12-06T00:00:00.000Z</published>
+    <updated>2016-12-26T02:08:49.053Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><p>네이버에서 학교나 회사에서 사용할 수 있는 간편하게 깔끔한 문서를 만들어 무료로 다운로드를 주고 있습니다. </p><p></p>
+<p></p><p>문서는 나눔글꼴로 만들어졌기에 나눔 글꼴을 설치해야 하고요. 무료 다운로드가 가능한 문서는 40여종 이지만 아주 쓸만합니다.</p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: center; CLEAR: none"><span class="imageblock" style="display:inline-block;width:500px;;height:auto;max-width:100%"><img filemime="image/jpeg" filename="f3a9af45638c222d76629de84defbb82_iI5hIjLO6spcjVpjZHB.jpg" height="492" src="http://cfile5.uf.tistory.com/image/2372C33F5845281C084D92" width="500"></span></p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>네이버 아름다운 한글 문서 <a href="http://hangeul.naver.com/document" rel="external nofollow noopener noreferrer" target="_blank">http://hangeul.naver.com/document</a> 페이지에서 무료 ppt 프레젠테이션 파일이나, 리포트 양식, </p><p></p>
+<p></p><p>학위용 논문 양식, 영화제 포스터, 강의 포스터, 초대장, 공지문 혹은 업무용 기획안, 기획서, 보고서, 이력서 양식 </p><p></p>
+<p></p><p>무료 다운로드가 가능합니다. 다운로드 받을 ppt 프레젠테이션 파일의 체크 박스에 체크를 하고 상단 우측의 선택한 </p><p></p>
+<p></p><p>문서 서식 받기 버튼을 누르면 .zip 파일로 다운로드가 됩니다.</p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: center; CLEAR: none"><span class="imageblock" style="display:inline-block;width:500px;;height:auto;max-width:100%"><img filemime="image/jpeg" filename="f3a9af45638c222d76629de84defbb82_Ws9sAIFxpnhk.jpg" height="338" src="http://cfile25.uf.tistory.com/image/261894405845282C05EA71" width="500"></span></p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>리포트 양식, 학위용 논문 양식, 영화제 포스터, 강의 포스터, 초대장, 공지문, 기획안, 기획서, 보고서 등은 </p><p></p>
+<p></p><p>워드와 한글 문서를 선택하여 다운로드 받을 수 있고요. 방법은 동일 합니다. </p><p></p>
+<p></p><p>나눔글꼴이 설치되지 않은 PC에서는 문서가 깨질 수 있다고 하니 <a href="http://hangeul.naver.com/font" rel="external nofollow noopener noreferrer" target="_blank">http://hangeul.naver.com/font</a> 이곳에서 나눔 글꼴을 설치하시고,</p><p></p>
+<p></p><p>무료로 제공되는 문서 서식은 2007버전으로 제작되었고, 하위 버전인 한글 2002 SE와 워드, PPT 2003은 추후 제공될 예정이라고 합니다.</p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>유료결제해서 쓰시지 마시고 네이버 잘 뒤지다 보면 이렇게 정형화 된 좋은 자료들이 나오네요.</p> <div class="entry-ccl" style="float:right;margin-top:0;height:0"><br><a href="http://creativecommons.org/licenses/by/4.0/deed.ko" style="text-decoration: none" target="_blank" rel="external nofollow noopener noreferrer"><br><img alt="저작자 표시" class="entry-ccl-by" id="ccl-icon-67-0" src="//i1.daumcdn.net/cfs.tistory/resource/9595f161c44651200ec5f6a69cadb5c525fb9c25/static/admin/editor/ccl_black01.png" style="width:15px;height:15px"><br><!--
+    <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <Work rdf:about="">
+            <license rdf:resource="http://creativecommons.org/licenses/by-fr/2.0/kr/" />
+        </Work>
+        <License rdf:about="http://creativecommons.org/licenses/by-fr/">
+            <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+            <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+            <requires rdf:resource="http://web.resource.org/cc/Notice"/>
+            <requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+            <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+        </License>
+    </rdf:RDF>
+    --><br></a><br></div>—<br>원문 출처 : <a href="http://gyu0327.tistory.com/67" rel="external nofollow noopener noreferrer" target="_blank">네이버에서 무료 제공하는 기획서 보고서 양식 샘플 자료실</a><br>본 컨텐츠는 CCL 라이센스를 포함한 저작권법에 따라 웹에서 수집한 것입니다.<br>수집에 불편함이 있으시다면 언제든지 <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">메일</a>로 연락주세요.<p></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;/p&gt;&lt;p&gt;네이버에서 학교나 회사에서 사용할 수 있는 간편하게 깔끔한 문서를 만들어 무료로 다운로드를 주고 있습니다. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;문서는 나눔글꼴로 만들어졌기에 나눔 글꼴을 설치해야 하고요. 무료 다운로드가 가능한 문
+    
+    </summary>
+    
+    
+      <category term="네이버에서" scheme="http://word2003.cclfree.cf/tags/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%97%90%EC%84%9C/"/>
+    
+      <category term="무료" scheme="http://word2003.cclfree.cf/tags/%EB%AC%B4%EB%A3%8C/"/>
+    
+      <category term="제공하" scheme="http://word2003.cclfree.cf/tags/%EC%A0%9C%EA%B3%B5%ED%95%98/"/>
+    
+      <category term="기획서" scheme="http://word2003.cclfree.cf/tags/%EA%B8%B0%ED%9A%8D%EC%84%9C/"/>
+    
+      <category term="보고서" scheme="http://word2003.cclfree.cf/tags/%EB%B3%B4%EA%B3%A0%EC%84%9C/"/>
+    
+      <category term="양식" scheme="http://word2003.cclfree.cf/tags/%EC%96%91%EC%8B%9D/"/>
+    
+      <category term="샘플" scheme="http://word2003.cclfree.cf/tags/%EC%83%98%ED%94%8C/"/>
+    
+      <category term="자료실" scheme="http://word2003.cclfree.cf/tags/%EC%9E%90%EB%A3%8C%EC%8B%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>티비조선에 제보</title>
+    <link href="http://word2003.cclfree.cf/2016/12/02/%ED%8B%B0%EB%B9%84%EC%A1%B0%EC%84%A0%EC%97%90_%EC%A0%9C%EB%B3%B4/"/>
+    <id>http://word2003.cclfree.cf/2016/12/02/티비조선에_제보/</id>
+    <published>2016-12-02T00:00:00.000Z</published>
+    <updated>2016-12-26T02:10:43.995Z</updated>
+    
+    <content type="html"><![CDATA[<p>티비 조선에 제보 인간과 동물의 차이는 과연 무엇일까? 인간은 무엇에 대해서 활용하거나 이용할 줄 안다면 동물은 이용이나 활용은 못하지만 대신 생명에 대한 예지능력이 월등히 뛰어나 파리 같은 경우 팔만 들어도 날아가 버립니다.특히 배에 사는 쥐는 자신이 살던 배가 침몰할 것 같으면, 항구에서 배가 출항할 것 같으면, 배에서 탈출한다고 합니다. 또 큰 산불을 앞두고 산짐승들이 미리 알고 다른 곳으로 도망가기도 합니다. 어쩌면 세월호에 살던 쥐들도 항구에서 출항하기 전 탈출했을 했을 것이고, 만물의 영장인 인간은 그 탈출하는 쥐들을 목격했음에도 대수롭지 않게 생각하고 승선했을지도 모릅니다.저는 이 세상의 모든 일에는 반드시 그 조짐이나 징조를 보여준다는 생각입니다. 그것은 어떠한 일이 발생하는 것이 결코 우연이 아니라는 뜻입니다. 제가 이런 글을 쓰는 이유는 너무나 이상한 일을 당했기 때문입니다. 또 그 일이 개인사가 아니라 국가대사(國家大事)이며 국운(國運)에 영향을 주는 일이라고 생각하기에 이 글을 씁니다.2008년 MB정부 때부터 박근혜정부에 이르기까지 수도 없이 글을 올렸고 편지로도 보낸바가 있었습니다. 하물며, 민경욱앵커, 장성민앵커, 최경환장관, 조병돈이천시장에도 보냈습니다.아무도 대수롭지 않게 생각했습니다. 그 결과 나라가 세월호처럼 경제도 군사도 민생안전문제에 까지도 모두 침몰해가고 있습니다. 나라가 병들어 가고 있습니다. 그리고 누구나 지금은 나라가 침몰해가는 그 원인을 나라가 병들어가는 그 원인을 박근혜대통령 때문이라고 합니다. 저도 그렇게 생각합니다. 수없이 이런 결과가 올 것을 예감하고 그 대안을 제시했기 때문입니다.그 대안이란 [정개산을 살려야 나라가 산다]입니다. 정개산(鼎蓋山)에 세워진 송전철탑을 옮겨줄 사람은 대통령밖에 없다는 생각이였고, 또 나라를 구할 사람도 대통령이라는 생각이였습니다.귀신 씨나락 까먹는 소리로 들릴 것은 분명하지만, 아무도 여기에 관심을 보이지 않겠지만, 아무도 세월호에서 탈출하는 쥐를 대수롭게 생각하지 않았지만 결국 세월호는 침몰했습니다.정개산을 관통하는 터널은 [분당~장호원간자동차전용고속도로]와 [경강선-분당~여주간복선전철선]이 있습니다. 2016년 9월 24일 [경강선]이 개통되었고 이날을 재앙일로 경고한바가 있었습니다.[정개산의 송전철탑]을 이전하지 않은 상태에서 [경강선]을 개통시킬 경우 대재앙이 발생한다는 경고였습니다. 우연이든 우연이 아니든 9월 15일 경주지진이 났고, 10월 5일 울산에 물폭탄이 터졌습니다.또 최순실국정논란사건이 터졌고 나라가 큰 충격에 빠졌습니다. 이뿐만이 아니라 이것은 시작에 불과하다 더 큰 재앙이 기다리고 있다고도 했습니다. 그것은 정개산을 관통하는 [분당~장호원간자동차전용도로]의 개통일입니다.이것은 우연이 아니라 하늘의 계획에 의한 연출이라고 확신했느냐면 미국의 대선주자 트럼프는‘자신이 대통령으로 당선되면 이북의 김정은과 커피를 먹겠다’고 했는데 이 말을 듣고 트럼프가 당선될 것을 예측할 수 있었습니다.왜냐하면 저는 박근혜대통령께 2013년 [분당~장호원간자동차전용고속도로]가 개통되면 [분단된 조국이 급격한 변화로 연결된다]했으며, 2015년 [분당~여주간복선전철선]이 개통되면 [용이 여의주를 얻은 것처럼 통일된다]고 했기 때문이며 단 [정개산의 송전철탑이전]이 선결 조건이였습니다.만약 [정개산의 송전철탑]을 이전하지 않고 [분당~장호원간자동차전용고속도로]가 개통되면 대재앙이 발생할 것이라고 했습니다. 당시 kbs앵커였던 민경욱씨에게도 개통연기를 대통령께 말씀드려주시던가 아니면 이를 온 국민이 알 수 있도록 방송해 주십사 하는 등기편지를 보냈습니다. 그 후 그는 2014년 청와대대변인이 되었고, 박근혜대통령께서는 [통일대박] [드레스덴선언] [나진원산프로젝트]를 발표하십니다. 대통령의 통일정책이 저의 통일구상과 너무나 유사한 짝퉁통일정책이라는 생각이 듭니다.대통령과 민경욱앵커에게 보낸 편지 내용 중에는 아프리카대륙과 유러시아대륙 그리고 한반도의 모양에 대해서도 설명한 바가 있는데, 아프리카대륙은 말머리라고 한다면, 유러시아대륙은 몸통, 중국은 복부, 유럽은 가슴, 일본은 똥덩어리, 시베리아횡단철도는 척추라면, 한반도는 말자지처럼 보였습니다.따라서 [한반대대운하건설]은 막힌 요도를 뚫어주는 공사가 될 것이며, 통일의 물꼬를 터주는 효과를 얻을 것이며, 이것을 시베리아횡단철도와 연계한다면 제2의 실크로드가 되어서 한반도는 이북의 군사력과 남한의 경제력으로 부국강병의 경제대국을 이룰 수 있다는 내용이였습니다.오비이락(烏飛梨落)처럼, 2013년 [분당~장호원간자동차전용고속도로]가 개통되면 남북이 연결될 것이고, 2015년 [분당~여주간복선전철선]이 완공되면 용이 여의주를 얻은 것처럼 통일이 될 것이니 대신 [정개산의 송전철탑이전]하기 전까지 [분당~장호원간자동차전용고속도로]의 개통을 연기해달라는 편지를 보내자 민경욱씨는 청와대대변인이 되었고, 2013년 완공된다던 [분당~장호원간자동차전용고속도로]는 연기되었으며, 그 후 대통령의 통일대박 드레스덴선언 나진원산프로젝트를 발표하셨는데 이 정책의 소스는 누구의 아이디어에 의한 것이냐는 의문입니다.만약 일국의 대통령께서 나와 같은 자의 구상을 그것도 논문표절처럼 모방해서 원안자의 의견도 묻지 않고 통일정책으로 사용했다는 사실이 밝혀지기라도 한다면 이보다 더 체면구기는 일은 없을 것입니다. 그러기에 감추고 싶은 치부를 내보인 것처럼, 그 결과 첫 단추부터 잘못 채워진 옷을 입고 히쭉 웃은 일을 당할 것이라고 판단했던 것입니다. 이것이 사실이라면 이런 일을 고건서울시장시절에도 있었습니다. 한강의 기적지금처럼 광화문광장으로 모여들어 촛불을 들듯이 서울로 서울로 인구가 몰려들었을 때 저는 고건서울시장에게 안내양이 없어도 운행이 가능한 버스설계도와 불법주정차차량을 단속할 스티커사용법, 그리고 한강에 뚝방과 제방을 쌓는 방법, 또 제2순환전철선건설과 4통8달식전철망계획도를 보낸바가 있었습니다.그 결과 제2순환전철선건설이 서울시외곽고속도로건설로 변경된 것 외는 모두 토씨 한 개 변경이나 추가 없이 그대로 시정에 반영되었고 발전을 거듭하고 있다는 것을 동시대를 살아가는 사람은 누구나 알 것입니다.이러한 사실이 또한 사실로 알려진다면 이 또한 손가락질 받을 일이 될 것입니다. 그래서 쉬쉬하는지도 모릅니다. 그래서 아이디어뱅크 부서를 신설하여 직위가 높은 사람이 그 지위에 맞도록 지혜창구로 활용하자는 것이 였고, 낮은 자의 어리석음은 자신이 손발만 고생하면 되겠지만, 높은 자의 어리석음은 만백성의 피눈물이 된다고 말하는 이유가 여기에 있는 것입니다. 정개산을 살려야 나라가 산다안내양이 없어도 운행이 가능한 시내버스설계도라든가 불법주정차단속에 스티커를 이용하는 방법, 한강에 뚝방을 쌓자는 아이디어는 지금 생각해도 어떻게 그 당시 그런 기발하고 독특한 아이디어를 냈는지 나도 모릅니다.그 당시엔 이렇게 편리한 워드작업은 상상도 못했던 시대였습니다. 모두 한자 한 글자 편지지에 써야만 가능했던 시대였었습니다. 쓰고 지우고 또 다시 쓰고 또 찟고 버리고를 반복해서 보낸 등기편지였었습니다.이렇게 보낸 아이디어가 버스가 되어 서울시를 누빌 때 그 기쁨은 이루 표현할 수 없었지만 나에겐 [고려해보겠다]는 답장 한 장 뿐, 이래도 되는 줄 알았습니다.그러나 지금 생각해보니 엄청난 세상이 뒤바꿀 수 있는 개벽의 아이디어였던 것입니다. 그 많은 안내양은 산업전선에 재배치되고, 서울시 아니 대한민국의 모든 버스의 문이 한쪽 뿐인 것을 두 쪽 문의 버스로 만들어야 하는 버스제조회사와 승차문화를 발전시킨 것까지 생각한다면 그 공은 한 나라를 구한 공과 같았을 터인데 왜 그 원안자는 이름도 없을까?고건서울시장님은 농공행상에 인색한 분일까? 아니면 서울시청의 편지 검열자의 도용이였을까? 아직도 청와대에는 최순실의 잔재들이 남았다는 생각입니다. 그렇지 않다면 어떻게 나의 통일구상과 대통령의 통일정책이 유사할 수 있겠느냐는 것입니다.이것을 뒤집어보면 최순실이란 아줌마는 일국의 대통령을 조정한다거나 유엔안보리까지 뒤흔드는 마력을 가졌다는 생각입니다. 잘못된 항아리 속의 쥐새끼 때려잡는 식의 통일정책의 파장이 현재의 파국을 불러들인 결과라고 보며, 그때부터 통일대박을 논할 때부터 파국의 씨앗은 자라기 시작했을 것으로 봅니다.왜냐하면 [분당~장호원간자동차전용고속도로]의 연기와 함께 바로 [정개산의 송전철탑이전]문제를 해결했어야 했기 때문입니다. 재앙의 씨앗인 [정개산의 송전철탑]을 방치했기 때문에 이런 결과를 불러드린 것이다라고 말하고 싶습니다.그 증명으로 정개산을 관통하는 [경강선]인 [분당~여주간복선전철선]의 개통으로 미국 트럼프의 당선을 예측할 수 있었고 재앙의 시작인 경주지진과 울산 물폭탄 그리고 작금의 국정문란사건이 그 증거라는 뜻입니다. 무모한 한반도 통일정책남북통일이 되면 한반도는 어떤 식의 집정체제의 정부가 들어서게 될 것인가에 대해서 미리 알아본다면 정개산을 관통하는 [경강선]을 보면 알 수 있다입니다. [경강선]의 본 이름은 [분당~여주간복선전철선]입니다. [분당~여주간복선전철선]이란 이름이 통일을 암시하고 따라서 경강선전철이 통일이라면 경강선이 다니는 두 철로가 남과 북을 의미한다고 보았습니다.다시 말하면 남과 북이 통일되면 흡수통일이 아닌 이원체제 즉 한 지붕 두 가족형 통일이라는 뜻입니다. 이런 이치로 트럼프의 당선을 미리 예측할 수 있었다는 것입니다.뢔냐하면 트럼프는 대선연설 중에 [자신이 대통령이 되면 이북의 김정은과 커피를 마시겠다]는 말을 했기 때문입니다. 이 말은 [경강선]이 의미하는 뜻과 상통하기 때문입니다.그래서 [한반도대운하건설]을 이북에 제시해서 통일의 물꼬를 트자는 것이였고 또 통일이 되기 위한 조건이나 결과를 미리 짐작해본다면 한강에 뚝방을 쌓아서 [한강의 기적]을 이룰 수 있었듯이 남북간에 한반도대운하를 건설함으로써 통일의 물꼬가 터질 것이라는 예측입니다.그런데 대통령의 한반도통일정책의 아이디어는 어디서 얻었는지 의문입니다. 민경국앵커에게 얻었는지, 아니면 최순실에게 얻었는지 만약에 최순실에게 얻었다면 최순실은 한반도통일정책에게 까지 관여한 것이고 더 나아가 유엔안보리까지 선동하는 결과이며 아직도 청와대는 최순실의 잔재가 남아있기 때문에 나의 글이 대통령께 전달이 되지 않고 변경되었다는 생각입니다. 이런 최순실이라면 정말 대단한 최순실이 아닐 수 없습니다. 이때 최순실이도 대통령께서도 [정개산의 송전철탑]을 이전해야 한다는 나의 당부를 잊지만 않았다면 완전범죄가 되었을 것이란 생각입니다.아니 나의 [한반도대운하건설]에 의한 통일구상과 2013년 [분당~장호원간자동차전용고속도로]와 2015년 [분당~여주간복선전철선]이 개통되면 통일된다는 나의 통일구상을 모방한 것이 아닌가하는 의심이 들기 때문입니다.제가 왜 [정개산을 살려야 나라가 산다]는 말을 하느냐면, 왜 박근혜대통령께 [신의 한수]로 보정사를 방문해야 한다고 했었느냐면, 이로써 정개산의 실체가 밝혀질 수 있다고 생각하기 때문입니다.나비효과의 나비가 멕시코에만 사는 것이 아니라 [정개산의 송전철탑]임을 알려져야만 대한민국이 원만한 통일을 성취하고 부국강병의 경제대국을 이룰 수 있도록 하는 원동력이 된다는 것이 밝혀지기 때문입니다.[경강선]의 개통으로 트럼프의 당선을 예측할 수 있었다는 것은 그리고 우연인지 아닌지는 몰라도 하여간 예측대로 [정개산의 송전철탑]을 이전하지 않고 그전에 [경강선]이 개통하면 재앙이 닥친다는 것도 정확하게 맞아떨어졌다면 정개산의 영향력이 국내에만 미치는 것이 아니라 세계에까지 그 파장이 미친다는 생각도 듭니다. 만약 정개산을 관통하는 [분당~장호원간자동차전용고속도로]가 개통되면 더 큰 재앙이 몰아칠 것이라는 나의 예측이 또 맞아들어진다면 생각만해도 두렵고 무서움이 앞섭니다. 어 개가 스님을 못 내려가게 하네2003년 단오일 정개산 팔부능선에는 훈련하는 병사들로 가득했었습니다. 그래서 올라왔던 곳으로 내려 갈려는데 누런 큰 개가 나타나서 못 내려가게 앞을 막았습니다.옆으로 피해서 내려 갈려고 하면 옆으로 와서 마치 소가 머리로 밀어내듯이 못 내려가게 막았습니다. 또 옆으로 피하면 또 와서 밀어 내듯이 막았고 이러기를 몇 번인가를 했을 때 이를 구경하든 군인들이 [어 개가 스님을 못 내려가게 하네]라고 말했습니다.정개산은 원적산의 제2봉이며 제1봉인 원적산하에는 예비군훈련부대가 있는데 아마도 그 때의 군인들은 예비군훈련부대원들이 아닌가 생각합니다. 따라서 이를 확인하기엔 간단하지 않을까 합니다.그리고 이상한 것은 높고 깊은 산에 어떻게 큰 개가 있을 수 있을 것이며 있다고 해도 그때를 맞추어서 군인들이 쉬면서 그 광경을 목격할 수 있었을 것이며 만약 훈련 중이라면 그 관경을 목격해도 그런 말을 할 수 없었을 것입니다.더욱 이상한 것은, 개와 군인들이 못 내려가게 막아서 정개산 꼭대기까지 올라가서 [내가 그릇이 된다면 정개산하에 도량을 점지해주소서]하고 내려왔는데 이로부터 100일도 되지 않아서 그해 여름 지금의 이 땅을 매입하게 되고 그 매입과정이 마치 꼬인 실이 풀리듯 잘 풀렸다는 것입니다.얼마나 잘 풀렸느냐면, 여러 증상이 있었지만 한 예로, 이곳으로 이사오기 전에 살던 집은 시골집이며 돼지움막으로 사용했던 곳으로 새로운 세입자를 구한다는 것이 어려운 상태였는데 마침 때에 맞추어 집이 팔렸다면서 보증금과 함께 이사비용까지 보상해준다고 하는 것입니다. 이렇게 척척 착착 잘 풀려 그 가을 지금쯤 이곳에 비닐하우스를 치고 입주하게 되었는데 그 이후부터가 고난의 연속이였습니다. 그래서 기도가 부족해서인가 생각하고 정말 열심히 기도했습니다.지금도 마찬가지 생각이지만 만약 이곳으로 이사오기 전처럼 꼬인 실이 풀리듯이 잘 풀렸더라면 [정개산을 살려야 나라가 산다]는 귀신 씨나락 까먹는 소리 같은 도저히 상식선에서 이해할 수 없는 이런 글을 쓰고 있지 않았을 것입니다. 가을에 산철쭉이 만발하다2008년 10월 15일 약불득도(若不得道)하면 수불기정(修不起定)하겠다는 심정으로 정개산에 올랐습니다. 22일 아침 정개산 팔부능선에는 산철쭉이 만발했습니다. 봄꽃인 산철쭉이 왜?그때였습니다. 2003년 단오일 정개산에서 군인들의 [어 개가 스님을 못 내려가게 하네]라는 말이 이해가 되기 시작했습니다. 지금까지 개가 나의 하산을 막은 것은 나의 발복(發福)을 위한 것으로만 알았는데 이때부터 나라의 국운(國運)을 미리 알려주기 위한 것으로 이해되기 시작했습니다.바로 정개산에서 군인들이 [어 개가 스님을 못 내려가게 하네]라고 말했는데 이때의 장소와 등장인물들의 상징성이였습니다. 장소는 ①鼎蓋山, 등장인물은 ②軍人 ③개(犬), ④스님이며 미래의 정개산하를 관통하는 [분당~장호원간자동차전용도로]와 [분당~여주간복선전철선]이란 터널의 이름이였습니다.①정개산(鼎蓋山)은 가마솥산이며 이 가마솥산을 관통하는 [분당~장호원간자동차전용도로]와 [분당~여주간복선전철선]의 터널이 가마솥의 아궁이가 되어서 가마솥에 밥을 짓는 시기가 되면 만백성이 배불리 밥을 먹을 수 있는 시기 잘 사는 시기 우순풍조민안락의 시기로 보았습니다.[분당~장호원간자동차전용고속도로]는 2013년에 완공예정이였고 [분당~여주간복선전철선]은 2015년 완공예정이였기 때문에 [분당~장호원간자동차전용고속도로]가 개통되는 2013년 남과 북이 연결될 것이며, [분당~여주간복선전철선]이 개통되는 2015년을 통일의 해로 예견했던 것입니다.그런데 산의 정상을 보니 그때 [정개산에 송전철탑]이 거의 완공되어 있었고 전선을 연결하기 위한 공사 중이였습니다. 그 순간 [이건 아니다] 대한민국의 경제와 군사 통일 민생안전에 먹구름이 몰려온다고 생각했습니다.2008년말 MB정부인 청와대에 등기편지를 보냈습니다. [정개산의 송전철탑이전]불가판정을 받았습니다. 이명박정부 때는 그나마 불가하다는 답장이나 받았지만, 박근혜정부는 꿀 먹은 벙어리였습니다. 소통불통의 정부였습니다. 수십 겹의 울타리로 에워싼 철옹성의 공주였습니다. 신의 한수그래도 글을 써보냈습니다. 절대절명의 순간이나 둘 수 있는 [신의 한수]를 둘 때이며 [신의 한수]란 보정사의 방문이라고 했습니다. 이나마 때를 놓치면 아무리 [신의 한수]라도 헛수가 될 것이라고도 했습니다.왜냐하면 [어 개가 스님을 못 내려가게 하네]라고 말한 군인들이 군인들이 아니라 516호국영령의 말로 들렸기 때문이며, 장래에 내 딸이 위기에 처했을 때, 또는 나라경제가 위태로울 때, 그 해결방법을 정개산에서 찾으라는 뜻에서 개와 군인들이 나의 하산을 막았다고 생각합니다. 해결방법그렇다면 작금의 국운을 어떻게 해야만 국운융창이 될 것인가? 어떻게 하면 대한민국호가 순풍에 돛단배가 되어서 오대양육대주를 누빌 것인가? 그것은 순풍만 불어주도록 만들기만 하면 간단한 것입니다. 순풍! 인력으로는 불가능하기 때문에 [정개산을 살려야 나라가 산다]는 이치를 말씀드리는 것입니다. 정개산에 경제신전을 건립하고 정개산을 명산으로 만듬으로써 원만한 통일성취와 부국강병의 경제대국을 이룰 수 있다는 말씀을 드리는 것입니다. 정개산에서는 ① 제3공수사단 정개산하 이전취소사건이 있었고, ② 웅진그룹부도로 정개산하 자연생태공원 조성중단 사건과 ③ 2013년 정개산하 대홍수사건이 있었습니다.작금의 박근혜정부가 선풍기 틀어주며 순풍이라고 하다가 역풍을 맞은 꼴이 아닌가 생각해봅니다. 저는 너무 힘들어서 정말 피눈물을 흘리며 이곳을 벗어나고자 했지만 번번히 여기를 떠날 수 없었습니다.왜일까? 위의 ①②③이 한 개의 연결고리에 연결된 것을 깨치게 된 것은 ③의 사건 즉 정개산에 대홍수가 나서 이 지역이 재난지역으로 선포되고 2014년 초봄 정개산을 보수하는 과정에서 쇠파이프로 눈땡이를 한방 세게 맞으며 알게 되었다는 것입니다.대한민국경제가 호황국면에 들었다는 뉴스를 들었기 때문입니다. 정개산을 보수하니 대한민국경제가 호황국면에 들었다? [정개산을 살리면 나라가 산다]는 논리가 성립되는 찰나였습니다.2014년 4월 16일 세월호침몰사건이 터지고 그 달 19일 쇠파이프에 나의 눈땡이가 터졌던 날로써 피눈물이란 눈에서 피가 뚝뚝 떨어지는 것을 피눈물이라는 것을 몸소 체험했던 날입니다.호황국면에 접어들었던 대한민국경제가 세월호침몰사건과 함께 침몰하기 시작했습니다. 이때쯤 정개산의 보수공사가 거의 끝난 시점이였습니다. 이 대목에서 생각해볼 것이라면, [어 개가 스님을 못 내려가게 하네]라고 말한 군인들의 말과, 고건서울시장에게 올린 안내양이 없어도 운행이 가능한 시내버스설계도, 한강에 뚝방을 쌓게 함으로써 한강의 기적을 도출하고, 불법주정차차량에 붙이는 스티커 등을 생각해보면 [왜 나냐?]입니다. 그리고 박근혜정부와 고건서울시장을 비교했을 때, 고건서울시장님은 나의 아이디어를 정말 토씨 하나 변경이나 추가없이 그대로 시정에 반영해온 결과 지금처럼 발전할 수 있었고, 박근혜정부는 나의 정개산의 송전철탑이전문제건의를 간과한 차이로 실패하지 않았나하는 생각입니다.다시 또 말씀드리면, 박근혜정부의 통일정책은 제가 구상한 통일구상에서 노른자가 빠진 정책으로써 즉 [한반도대운하건설]을 제외시키고 이것을 철도건설로 변경한 짝퉁이며 꽁수 통일정책의 여파로 작금의 수난을 당하는 것이 아닌가 합니다.저의 생각은 대통령을 비롯한 통일참모들은 작금의 통일정책을 변경해야 한다는 것입니다. 그것은 빠를수록 국익에 도움이 될 것입니다. 처음부터 잘못된 정책을 들고 설치는 꼴로 보이기 때문입니다. 대한민국의 미래저는 이런 것을 미루어 짐작했을 때 한반도의 미래는 [분당~장호원간자동차전용고속도로]가 개통되면 통일된다는 생각입니다. 문제는 [정개산의 송전철탑이전]입니다.[이전]이 되지 않은 상태에서 개통을 서두르는 것은 불통이 될 것이며, 이는 대한민국의 경제, 군사, 민생안전에도 불통이 될 것이며, 이뿐이라면 다행이겠지만 대재앙을 부르는 개통이 될 것이라는 예측입니다.엊그제 정개산을 관통하는 [경강선]이 개통했습니다. 우연일까요? 제가 예언한대로 9월 24일 [경강선]이 개통되면 대재앙이 발생할 것이라는 예언이, 9월 15일, 10월 5일, 국정문란사건, 대구 서문시장화재로 나타나고 있습니다. 앞으로 [분당~장호원간자동차전용고속도로]가 개통되기 전에 어떤 사건들로 민생안전이 위협 받게 될 것인지, 또 개통되면 좀 더 강조가 센 재앙이 몰려올 것을 이렇게 말씀드리는데도 왜 이해를 못 하십니까? 말에 두서가 없지만 무슨 뜻인지 알 수 있을 것으로 봅니다. 하여간 한반도가 통일이 되었을 때, 남북간에 [한반도대운하]가 건설되었거나 되어서 시베리아횡단철도와 연계되었을 것이고, 정개산에는 경제신전이 건립되고 매년 초 경제살리기건강걷기대회가 연례행사로 열릴 것이고 초기는 한 지붕 두 가족형 이원체제의 통일국가로 형성되다가 일원체제로 될 것입니다.이렇게 말하는 이유는 정개산을 관통하는 2013년 완공된다던 [분당~장호원간자동차전용고속도로]가 2015년 개통된다던 [경강선] 이후로 변경되었기 때문에 이를 근거로 말씀드리는 것입니다.따라서 통일대통령 경제대통령 노벨대통령이 누가 될 것인가는 정개산을 명산으로 만드는 자가 될 것입니다. 과연 누가 먼저 보정사에 와서 정개산을 명산으로 만들어야 하는 이유를 들을 것인가? 어찌 흥미롭지 않겠습니까? 나라의 국운이 정개산에 의해서 좌우되는데도 그것을 모르고 설왕설래하는 것을 보고 있노라면 어찌 사바세계가 부처님의 손바닥 안이 아니라고 하겠습니까? 대한민국의 경제 군사 민생안전이 위협받고 있다저는 점쟁이가 아닙니다. 다만 그저 보이는 대로 말할 뿐입니다. [어 개가 스님을 못 내려가게 하네]의 등장인물로 군인들과 개 그리고 스님, 장소로는 정개산(鼎蓋山)이며, 또 정개산을 관통하는 [분당~장호원간자동차전용고속도로]와 9월 24일 개통된 [경강선]만을 보고 대한민국의 국운을 말씀드리고자 하는 것입니다.위에서 ①인 정개산(鼎蓋山)에 대해서 말씀드린바가 있습니다. 대략 간추려 말씀드리면, 정개산(鼎蓋山)은 가마솥산인데, [정개산에 송전철탑]이 세워져 있다는 것은, 가마솥의 뚜껑을 열지 못하도록 철탑과 전선이 꽁꽁 묶은 것과 같아서, 정개산을 관통하는 터널이 완공 내지 개통이 되는 시기가 되면, 이 터널을 통과하는 전철과 자동차가 아궁이의 땔감이 될 것이고, 결국 밥이 다되어도 밥솥뚜껑을 열지 못해서 밥은 새까맣게 타게 될 것이며, 이렇게 새까맣게 탄 솥을 닦기 위해서 물을 붓는 사태와 비슷한 일들이 재앙으로 다가오고 있다는 것이 저의 정개산을 보고 추단한 내용입니다.이를 증명이나 하듯이 정개산을 관통하는 [경강선]이 개통되는 시점에 맞추어서 가마솥바닥이 갈라지고 새까맣게 타듯이 지진과 물폭탄 그리고 대구서문시장의 화재가 발생했습니다.나라는 국정문란에 휩싸이는데 저의 생각은 아직 정개산을 관통하는 [분당~장호원간자동차전용고속도로]가 개통을 서두르고 있다는 점입니다. 이것이 개통되었을 때, 재앙의 원인인 [정개산의 송전철탑]을 저대로 놔두고 개통을 서두르고 있다는 것은 더 큰 재앙을 불러드리고 있다고 할 것입니다.이것을 알리자는 것입니다. 이런 기가 막히는 사실을, 아무도 믿을 수 없은 이 진실을 온 국민에게 온 세상에 알려야 한다는 것입니다. 그래서 더 큰 재앙을 막아야 한다는 것입니다. 박근혜대통령께서 보정사를 방문해야만 이런 사실이 세상에 더욱 빨리 알려질 것이기 때문에 대통령의 보정사 방문을 권하였던 것입니다. 저는 이 상황은 신의 계획에 의해서 연출된 연극이라는 생각입니다.그럼 누가 할 것인가? 그럼 누가 보정사에 방문할 것인가? 누가 정개산을 살릴 것인가? 누가 통일대통령이 될 것이며, 누가 경제대통령이 될 것이며, 누가 노벨대통령이 될 것인가? 왜 제가 [정개산을 살려야 나라가 산다]고 하느냐면 정개산은 가마솥산이며 가마솥은 부(富)의 상징이고 권력을 의미하기 때문에 옛 군주들도 탐을 냈던 물건으로 압니다.따라서 정개산을 명산으로 만든다는 것은 부와 명예 권력을 모두 차지하는 효과가 있을 뿐만 아니라, 그때 ②많은 군인들이 지켜보는 데에서 ③누런 큰개(大犬)가 나타나서 ④스님(衆)의 하산을 막았습니다.좀 난해하지만, 이상의 ①+②+③+④에서 유추한 내용을 설명하면 ①鼎蓋山+②나라를 지키는 軍人들=경제(經濟)와 군사(軍事) 즉 부국강병(富國强兵)을, ③집을 지키는 개(大犬)는 민생안전, ④스님은 광도중생이란 공식으로 그 상징성이 유추성립되더라는 것입니다. 이를 좀 더 이해하기 쉽게 설명하면 [정개산에 송전철탑]이 세워져있다는 것은 ①+②+③이란 상징성을 짓누르는, 즉 대한민국(또는 세계)의 경제+군사+민생안전이 위협받는 형세가 되어서 경제는 침체될 것이고 군사적으로 항상 문제가 발생할 것이며 민생은 항상 불안하여 마치 가마솥의 밥이 새까맣게 타듯이 만백성의 마음도 새까맣게 타는 일이 쉴 사이 없이 반복해서 발생한다고 하겠습니다.그 절정을 이룰 시기가 [분당~장호원간자동차전용고속도로]가 개통되는 시점이 될 것이라는 것이 저의 예측입니다. 다시 말씀드리자면 [경강선]의 개통만으로 나라가 이 모양인데, 불교설화의 火宅喩라는 비유를 들고 싶습니다.집이 불타고 있는데도 서로 싸우느라 나오지 않고 있는 것만 같습니다. 이를 어쩌면 좋겠습니까? 늑대와 소년처럼 제가 아무리 말해도 믿지를 않습니다. 아무리 콩으로 메주를 쑨다해고 믿지를 않습니다.보정사에서 정개산으로 갈 길을 터줄 사람은 과연 누가 될 것인가? 누가 정개산을 살릴 것인가? 그는 나라를 살릴 것이며 통일을 이룰 것이며 대한민국을 부국강병의 경제대국으로 발전시킬 것입니다.그래서 이런 글을 올리는 것입니다. 정개산을 살려주시오. 그래야 나라가 삽니다. 그래야 나라가 우순풍조민안락이 됩니다. 정개산을 살리는 자 천하를 얻을 것입니다.그렇다면 저런 철탑 100개가 문제이겠습니까? 백천만개가 무슨 문제가 되겠습니까? 만백성의 피눈물보다 어찌 문제가 되겠습니까? 반드시 만백성에게 진솔하게 알려져야 합니다. 티비조선 제보담당자에게 알립니다.아무리 귀신 씨나락 까먹는 소리로 들릴지 모르지만, 반드시 알려져야 한다는 생각입니다. 2016년 12월 1일보정사 법종합장—<br>원문 출처 : <a href="http://blog.daum.net/bojungsa/100" rel="external nofollow noopener noreferrer" target="_blank">티비조선에 제보</a><br>본 컨텐츠는 CCL 라이센스를 포함한 저작권법에 따라 웹에서 수집한 것입니다.<br>수집에 불편함이 있으시다면 언제든지 <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">메일</a>로 연락주세요.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;티비 조선에 제보 인간과 동물의 차이는 과연 무엇일까? 인간은 무엇에 대해서 활용하거나 이용할 줄 안다면 동물은 이용이나 활용은 못하지만 대신 생명에 대한 예지능력이 월등히 뛰어나 파리 같은 경우 팔만 들어도 날아가 버립니다.특히 배에 사는 쥐는
+    
+    </summary>
+    
+    
+      <category term="티비조선에" scheme="http://word2003.cclfree.cf/tags/%ED%8B%B0%EB%B9%84%EC%A1%B0%EC%84%A0%EC%97%90/"/>
+    
+      <category term="제보" scheme="http://word2003.cclfree.cf/tags/%EC%A0%9C%EB%B3%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>한글 워드 변환</title>
+    <link href="http://word2003.cclfree.cf/2016/11/20/%ED%95%9C%EA%B8%80_%EC%9B%8C%EB%93%9C_%EB%B3%80%ED%99%98/"/>
+    <id>http://word2003.cclfree.cf/2016/11/20/한글_워드_변환/</id>
+    <published>2016-11-20T00:00:00.000Z</published>
+    <updated>2016-12-26T02:08:34.001Z</updated>
+    
+    <content type="html"><![CDATA[<p>이름으로 저장하기를 클릭합니다. 다른이름으로 저장시 파일 형식을 hwp -&gt; 워드 문서(97-2003)로 변경합니다. 그리고 저장 버튼을 클릭해주세요 호환 문서 메시지창…—<br>원문 출처 : <a href="http://loveduris.tistory.com/108" rel="external nofollow noopener noreferrer" target="_blank">한글 워드 변환</a><br>본 컨텐츠는 CCL 라이센스를 포함한 저작권법에 따라 웹에서 수집한 것입니다.<br>수집에 불편함이 있으시다면 언제든지 <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">메일</a>로 연락주세요.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;이름으로 저장하기를 클릭합니다. 다른이름으로 저장시 파일 형식을 hwp -&amp;gt; 워드 문서(97-2003)로 변경합니다. 그리고 저장 버튼을 클릭해주세요 호환 문서 메시지창…—&lt;br&gt;원문 출처 : &lt;a href=&quot;http://loveduris.
+    
+    </summary>
+    
+    
+      <category term="변환" scheme="http://word2003.cclfree.cf/tags/%EB%B3%80%ED%99%98/"/>
+    
+      <category term="한글" scheme="http://word2003.cclfree.cf/tags/%ED%95%9C%EA%B8%80/"/>
+    
+      <category term="워드" scheme="http://word2003.cclfree.cf/tags/%EC%9B%8C%EB%93%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>북부 만토바(Mantova), 우르비노(Urbino), 카프라놀라(Caprarola...</title>
+    <link href="http://word2003.cclfree.cf/2016/11/14/%EB%B6%81%EB%B6%80_%EB%A7%8C%ED%86%A0%EB%B0%94_Mantova_,_%EC%9A%B0%EB%A5%B4%EB%B9%84%EB%85%B8_Urbino_,_%EC%B9%B4%ED%94%84%EB%9D%BC%EB%86%80%EB%9D%BC_Caprarola.../"/>
+    <id>http://word2003.cclfree.cf/2016/11/14/북부_만토바_Mantova_,_우르비노_Urbino_,_카프라놀라_Caprarola.../</id>
+    <published>2016-11-14T00:00:00.000Z</published>
+    <updated>2016-12-26T02:09:30.528Z</updated>
+    
+    <content type="html"><![CDATA[<p>공간특성 및 구성 체계를 도출된 키 워드로 비교, 분석한다. 본 논문은 참고 문헌과…1인 역, 서양 건축사, 아키그램, 2003, p.133, 146, 157: 정영철, 서양 건축…—<br>원문 출처 : <a href="http://sunshin0612.tistory.com/25" rel="external nofollow noopener noreferrer" target="_blank">북부 만토바(Mantova), 우르비노(Urbino), 카프라놀라(Caprarola…</a><br>본 컨텐츠는 CCL 라이센스를 포함한 저작권법에 따라 웹에서 수집한 것입니다.<br>수집에 불편함이 있으시다면 언제든지 <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">메일</a>로 연락주세요.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;공간특성 및 구성 체계를 도출된 키 워드로 비교, 분석한다. 본 논문은 참고 문헌과…1인 역, 서양 건축사, 아키그램, 2003, p.133, 146, 157: 정영철, 서양 건축…—&lt;br&gt;원문 출처 : &lt;a href=&quot;http://sunshin
+    
+    </summary>
+    
+    
+      <category term="북부" scheme="http://word2003.cclfree.cf/tags/%EB%B6%81%EB%B6%80/"/>
+    
+      <category term="만토바Mantova" scheme="http://word2003.cclfree.cf/tags/%EB%A7%8C%ED%86%A0%EB%B0%94Mantova/"/>
+    
+      <category term="우르비노Urbino" scheme="http://word2003.cclfree.cf/tags/%EC%9A%B0%EB%A5%B4%EB%B9%84%EB%85%B8Urbino/"/>
+    
+      <category term="카프라놀라Caprarola" scheme="http://word2003.cclfree.cf/tags/%EC%B9%B4%ED%94%84%EB%9D%BC%EB%86%80%EB%9D%BCCaprarola/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>컴퓨터 보안위협 - 바이러스와 웜</title>
+    <link href="http://word2003.cclfree.cf/2016/11/12/%EC%BB%B4%ED%93%A8%ED%84%B0_%EB%B3%B4%EC%95%88%EC%9C%84%ED%98%91___%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EC%99%80_%EC%9B%9C/"/>
+    <id>http://word2003.cclfree.cf/2016/11/12/컴퓨터_보안위협___바이러스와_웜/</id>
+    <published>2016-11-12T00:00:00.000Z</published>
+    <updated>2016-12-26T02:09:22.432Z</updated>
+    
+    <content type="html"><![CDATA[<p>Worm) 2003년 마이크로소프트의 윈도우 NT계열을 통해 급속하게 확산된 웜이다. 이 웜은 컴퓨터에 침입한 후 메모리를 과다 사용하게 만들고, 궁극적으로 운영체제를…—<br>원문 출처 : <a href="http://kixxf.tistory.com/31" rel="external nofollow noopener noreferrer" target="_blank">컴퓨터 보안위협 - 바이러스와 웜</a><br>본 컨텐츠는 CCL 라이센스를 포함한 저작권법에 따라 웹에서 수집한 것입니다.<br>수집에 불편함이 있으시다면 언제든지 <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">메일</a>로 연락주세요.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Worm) 2003년 마이크로소프트의 윈도우 NT계열을 통해 급속하게 확산된 웜이다. 이 웜은 컴퓨터에 침입한 후 메모리를 과다 사용하게 만들고, 궁극적으로 운영체제를…—&lt;br&gt;원문 출처 : &lt;a href=&quot;http://kixxf.tistory.
+    
+    </summary>
+    
+    
+      <category term="컴퓨터" scheme="http://word2003.cclfree.cf/tags/%EC%BB%B4%ED%93%A8%ED%84%B0/"/>
+    
+      <category term="보안위협" scheme="http://word2003.cclfree.cf/tags/%EB%B3%B4%EC%95%88%EC%9C%84%ED%98%91/"/>
+    
+      <category term="바이러스와" scheme="http://word2003.cclfree.cf/tags/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%EC%99%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>조선의 문을 두드리는 세계 열강, 이이화의 한국사 이야기 17</title>
+    <link href="http://word2003.cclfree.cf/2016/11/05/%EC%A1%B0%EC%84%A0%EC%9D%98_%EB%AC%B8%EC%9D%84_%EB%91%90%EB%93%9C%EB%A6%AC%EB%8A%94_%EC%84%B8%EA%B3%84_%EC%97%B4%EA%B0%95,_%EC%9D%B4%EC%9D%B4%ED%99%94%EC%9D%98_%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%9D%B4%EC%95%BC%EA%B8%B0_17/"/>
+    <id>http://word2003.cclfree.cf/2016/11/05/조선의_문을_두드리는_세계_열강,_이이화의_한국사_이야기_17/</id>
+    <published>2016-11-05T00:00:00.000Z</published>
+    <updated>2016-12-26T02:09:16.184Z</updated>
+    
+    <content type="html"><![CDATA[<p><div class="tt_adsense_top" style="margin-bottom:30px"><br><!-- 반응형_11 --><br><ins class="adsbygoogle" data-ad-client="ca-pub-9191309321318018" data-ad-format="auto" data-ad-slot="6475868084" style="display:block"></ins><br></div></p><p style="FLOAT: right; CLEAR: both"><span class="imageblock" style="display:inline-block;width:250px;MARGIN-LEFT: 10px;height:auto;max-width:100%"><img alt="이이화의 한국사 이야기 17" filemime="image/jpeg" filename="17.jpg" height="370" original="yes" src="http://cfile22.uf.tistory.com/image/22799443581D49F90F32B4" style="MARGIN-LEFT: 10px" width="250"><span class="cap1" style="display:block;max-width:100%;width:250px;">이이화의 한국사 이야기 17</span></span></p><p></p>
+<p></p><p>‘이이화 한국사 이야기’는 1994년 기획과 집필이 시작된 후 10년 만에 완간된 책이다. </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>해방 이후 우리 역사학계의 연구 성과를 반영하면서, 우리 역사 전체를 일목요연하고 체계 있게 서술하여 이렇다 할 한국통사가 없었던 당시 좋은 평가를 받았다. </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>정치사 위주의 역사서술에서 벗어나 각 시대의 정치·경제·사회·문화를 아우르고 생활사와 문화사를 중심으로 서술하고, 그 과정에서 민중의 목소리를 들려주려 한 것 또한 다른 역사서들과 구별되는 점이다. </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>이 책에서는 화전민 김돌쇠, 농사꾼 칠성이, 뼈빠지게 일하고도 배필을 찾지 못하는 마흔 살 총각머슴 같은 ‘별 볼일 없는’ 민중들이 주인공으로 등장한다.</p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>이야기체 역사서술도 ‘이이화 한국사 이야기’가 선두주자였다고 할 수 있다. 철저한 현장조사와 문헌고증을 바탕으로 대중의 눈높이에 맞춰 쉽고 재미있게 쓴 덕택에 역사 대중화에 기여했다. </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>이 모든 것이 한 개인의 집필로 완성되었다는 것 역시 평가되어야 하는 부분이다. 역사를 보는 개인의 힘으로 씌어졌기에 새로운 관점과 다양한 해석이 가능했고, 피지배계층에게 눈을 돌릴 수 있었다. 물론 그로 인한 한계 역시 분명하다.  </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>‘조선의 문을 두드리는 세계 열강’은 이이화의 한국사 이야기 17권이다. </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>17권은 1863년 12월, 철종이 33세의 나이로 세상을 뜨면서 시작된다. 파락호 이하응이 역사에 등장하는 대목이다. 44세의 이하응은 임금의 아버지 자격으로 흥선대원군에 추대된다. 흥선대원군은 서원을 철폐하고 왕권 강화를 위해 경복궁 중건에 나선다. </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>이 시기는 세계 열강이 조선의 문을 두드리는 때였다. 흥선대원군은 쇄국정책으로 문을 닫아건다. 제너럴셔먼호 사건이 터지고 병인양요 신미양요 사건이 잇따른다. 내부적으로는 반봉건 투쟁이 펼쳐진다. </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p>그 와중에 흥선대원군과 민비의 권력 쟁탈전이 이어지고, 이 혼란을 틈탄 매관매직으로 민심은 이반된다. 결국 운양호 사건으로 강화도 조약이 맺어지고, 쇄국정책의 빗장이 열리면서 새로운 문물이 쏟아져들어온다.  </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: center; CLEAR: none"><span class="imageblock" style="display:inline-block;width:550px;;height:auto;max-width:100%"><img alt="조선의 문을 두드리는 세계 열강, 이이화의 한국사 이야기 17" filemime="image/jpeg" filename="photo_1478308519.jpg" height="550" original="yes" src="http://cfile22.uf.tistory.com/image/2365C244581D4ABB0DA1F4" width="550"><span class="cap1" style="display:block;max-width:100%;width:550px;">조선의 문을 두드리는 세계 열강, 이이화의 한국사 이야기 17</span></span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: center; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: center; CLEAR: none"> </p><p></p>
+<p></p><p>내가 읽은 책은 2004년에 나온 1판 2쇄본이다. 이 책은 현재 개정판이 나와 있다. 다음은 개정판을 내면서 밝힌 주요 개정 내용이다. </p><p></p>
+<p></p><p><br> </p><p></p>
+<p></p><p><strong><span style="COLOR: #747474">2015년, 촘촘한 내용 보완과 새로운 디자인으로 무장하다</span></strong></p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p><span style="COLOR: #747474">지난 20여 년간 ‘이이화 한국사 이야기’는 총 300쇄를 거듭하며 50만 명의 독자들과 함께했다. 개정판에 대한 의지는 여러 번 있었지만 방대한 분량을 다시 손본다는 일이 쉽지는 않았다. 그러나 이 책이 가지고 있는 의미는 오랜 시간이 지나도록 퇴색되지 않고 여전히 유효하며 앞으로도 그 가치를 다할 것이라는 판단에 따라 개정판을 출간하게 되었다. </span></p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p><span style="COLOR: #747474">1. 오류수정 및 내용 보완 : ‘이이화 한국사 이야기’는 오랜 시간 독자와 호흡해온 책이다. 쇄를 거듭할 때마다 독자와 소통하면서 쌓아온 수정 사항들을 반영해왔으나 미처 잡아내지 못한 내용들이 있었다. 저자는 전 22권의 내용을 일일이 확인하며 그동안 아쉽게 생각해왔던 오류를 바로잡고 현재의 역사적 쟁점을 다루는 내용을 보완했다. </span></p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p><span style="COLOR: #747474">주로 우리나라가 처해 있는 내ㆍ외부적 역사왜곡의 상황과 각각의 처지에 따른 다양한 해석을 서술하고, 앞으로의 대응에 대해 저자의 의견을 제시했다. 특히, 치열했던 근현대사의 내용을 대폭 수정한 것은 개정판을 내는 소기의 성과를 거뒀다고 할 수 있다. 우선 고대사 부분에서는 중국의 동북공정에 따른 동아시아 역사왜곡 문제를 다루었다. 단군조선과 요하문명론을 동북공정의 일환으로 연구하는 중국의 시각, 이를 평양 중심으로 왜곡하여 대동강중심설을 내세우고 있는 북한, 중국과 반대의 의견을 내세우는 우리나라 재야사학자들의 확대해석에 비판을 가하고 조심스러운 견해를 표명하면서, 요하문명권에 대한 합리적이고 과학적인 접근을 요구한다. 그 연장선상에서 기자조선의 존재여부에 대한 중국의 역사왜곡을 비롯 조선시대 실학자들의 의견을 객관적으로 바라보려고 노력하며, 발해사를 둘러싼 중국, 일본, 러시아, 우리나라의 해석 문제도 제시한다. 전체적으로 동북공정의 배경과 진행과정을 설명하며 지금까지 진행된 우리의 대응에 대한 문제점을 언급하며 앞으로의 대처방식을 제시했다.</span></p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p><span style="COLOR: #747474">조선 후기에서는 조선의 르네상스를 연 정조 시기의 탕평정책과 문체반정 내용을 보완하고, 동학농민전쟁을 빌미로 시작된 청일전쟁으로 조선이 청나라의 세력에서 벗어났지만 일본이라는 또 다른 제국주의 세력 아래로 편입되는 과정에 대해서도 자세한 보충 설명을 더했다. 근대 시기 갑오개혁과 폐정개혁안을 비교하고 동학농민전쟁(혁명)의 의미와 한계에 대해서도 돌아보았다. </span></p><p></p>
+<p></p><p><br><span style="COLOR: #747474">또한 3ㆍ1운동을 바라보는 관점에 따른 용어해석 문제, 일본 제국주의 국가범죄와 인권유린의 참상인 가미가제, 일본군 위안부와 여성근로정신대 동원의 실상과 명칭 문제, 징용ㆍ징병 문제 등 역사 바로잡기에 빠질 수 없는 일제 식민지 시기에 대해서도 다루었다. </span></p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p><span style="COLOR: #747474">그밖에 금속활자ㆍ판소리 등의 문화사, 놀이와 풍속ㆍ노비해방에 대한 사회사, 유교사상의 희생양 ‘열녀’에 대한 여성사, 3ㆍ1운동에 참여한 기생과 어부, 공장노동자 등 기존 역사책에서 소외된 사람들의 이야기까지 빠짐없이 다루었다. 저자는 독자들에게 여전히 역사를 움직이는 것은 ‘민중’이라는 메시지를 전달하고 있다.</span></p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p><span style="COLOR: #747474">2. 사진 및 디자인 교체: 기존 사진 중 화소가 떨어지는 사진들은 좀더 선명하게 보일 수 있는 사진들로 교체했다. 또한 문맥을 정확히 파악하여 본문과 어울리지 않는 사진들은 과감히 삭제하고 내용을 이해하는 데에 도움이 될 수 있는 사진으로 바꾸었다. 낡은 표지와 본문 디자인 역시 각 권의 시대에 해당하는 대표 이미지들을 이용해서 새롭게 디자인했다. </span></p><p></p>
+<p></p><p> </p><p></p>
+<p></p><p><span style="COLOR: #747474">3. 기타: 교정에 있어서도 최신 규정을 참고하여 적용하였으며, 사진 캡션과 용어 보충 설명, 지도에 대해서도 철저한 고증 및 새로운 내용을 추가하였다. 보충 설명의 위치도 실제 본문에 포함된 용어를 읽은 후 바로 참고할 수 있도록 상하 위치를 조절하여 가독성을 높였다. </span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: center; CLEAR: none"><span class="imageblock" style="display:inline-block;width:550px;;height:auto;max-width:100%"><img alt="조선의 문을 두드리는 세계 열강, 이이화의 한국사 이야기 17" filemime="image/jpeg" filename="photo_1478308520.jpg" height="550" original="yes" src="http://cfile8.uf.tistory.com/image/261D5542581D4B6D1DB1B0" width="550"><span class="cap1" style="display:block;max-width:100%;width:550px;">조선의 문을 두드리는 세계 열강, 이이화의 한국사 이야기 17</span></span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p><blockquote class="tx-quote-tistory"></blockquote></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><strong><span style="COLOR: #747474">‘이이화 한국사 이야기’가 걸어온 길</span></strong></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">1994년 11월 한길사의 김언호 사장에게서 10년 계획의 한국통사 집필을 의뢰받음.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">이를 수락하여 전체계획을 수립하고 기술범위와 내용, 서술방식과 문장, 사료 이용의 기준 등을 구상. 여러 통사를 비교 검토. 시대별 특징을 감안하여 정치ㆍ경제ㆍ사회 등 분야를 나누지 않고 여러 분야를 한 시대에 아우르는 교직(交織) 방식을 택하기로 함.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">1995년 2월 역사문제연구소 연구원인 윤해동, 한상구, 임대식, 우윤, 이신철 등 소장학자들과 기술시기와 분량 등을 협의해 24권으로 정하고, 내용을 고대에서 1945년까지로 한정하되 민족사ㆍ민중사ㆍ생활사 중심으로 기술하기로 결정. 원고지 집필방식을 벗어나 컴퓨터를 배워 집필하기로 마음먹고 대학생 아들(응일)에게 워드를 배움.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">1995년 7월 전라북도 장수군 천천면 연화분교(폐교)의 관사를 집필장소로 결정. 폐교 관리인인 이장 우기언 씨 집에서 기식하기로 함. 방안에는 냉장고와 선풍기를 두지 않고 시원한 샘물로 더위를 삭힘. 1차분 고대사 관련자료를 옮겨놓고 집필 시작. 야간에 집필하는 습성에 따라 밤에 전기가 자주 나가 애로를 겪은 끝에, 1997년 2년에 걸쳐 고대사 4권 분량 집필을 완료.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">집필 기간에 축하한다고 역사문제연구소 식구들 100여 명이 들이닥치거나 참여연대에서 여름연수를 한다고 150여 명이 몰려와 동네가 생긴 이래 가장 많은 외지인이 모여들었다고 동네 사람들이 수군거림. 또 한길사에서 김언호 사장 이하 관계자들이 역사기행이나 세미나를 벌이느라 자주 드나듦.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">1998년 6월 1차분 네 권 간행. 한민족의 기원과 단군에서부터 후기 신라와 발해사까지 포함. (1)우리 민족은 어떻게 형성되었나 (2)고구려 백제 신라와 가야를 찾아서 (3)삼국의 세력다툼과 중국과의 전쟁 (4)남국 신라와 북국 발해</span><br><span style="COLOR: #747474">내용검토와 조언은 전덕재(서울대 강사)가 맡아줌.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">모든 신문과 주간지 등의 언론에 한국 근대사학 최초로 가장 방대한 통사를 집필한다는 대대적 보도로 심한 부담감을 가짐. 이해 여름 고대사 부분 간행기념으로 독자 25명과 함께 배로 압록강 입구 단동을 거쳐 요양과 봉황성, 요동반도 일대의 고구려 유적 답사. </span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">1997년 가을 연화분교에 친지들이 자주 찾아와 집필에 방해를 받아 집필 장소를 김제 월명암(금산사 입구)으로 옮겨 1년 동안 고려사 부분 집필을 완료. </span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">1999년 1월 2차분 간행. (5)최초의 민족통일국가 고려 (6)무신의 칼 청자의 예술혼 (7)몽골의 침략과 30년 항쟁 (8)개혁의 실패와 역성혁명</span><br><span style="COLOR: #747474">내용검토와 조언은 최연식(서울대 강사)이 맡아줌. </span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">고려사 집필을 완료한 뒤 조선시대 집필에 필요한 방대한 자료를 시골로 옮길 수 없어 다시 집필장소를 구리시 아차산 아래 자택 지하실로 옮김. 집필실에는 전화와 휴대폰을 두지 않고 외부와의 연락을 단절한 채 꼭 필요한 연락은 아내와 아이들에게 간접방식으로 전달받음. 이해 여름 2차분 간행기념으로 독자 50여 명과 북한산의 승가사, 진흥왕순수비 등 답사.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">2000년 2월 3차분 간행. 조선 전기의 역사로 (9)조선의 건국 (10)왕의 길 신하의 길 (11)조선과 일본의 7년전쟁 (12)국가 재건과 청의 침입</span><br><span style="COLOR: #747474">내용검토와 조언은 염정섭(서울대 박사과정)이 맡아줌. </span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">틈틈이 조선 후기 연구자들과 조일전쟁 전적지, 남한산성과 강화도, 그리고 실학의 요람인 경기도 일대 등 답사.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">2001년 3월 4차분 간행. 조선 후기의 역사로 (13)여러 세력의 갈등 (14)놀이와 풍속의 사회사 (15)문화군주 정조의 나라 만들기 (15)문화군주 정조의 나라 만들기</span><br><span style="COLOR: #747474">큰 사건이 없는 시기여서 계획보다 한 권 분량을 줄임.</span><br><span style="COLOR: #747474">내용검토와 조언은 염정섭(서울대 박사과정)이 맡아줌.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">틈틈이 우윤 등 연구자들과 농민전쟁 관련 유적과 강화도 등지 답사.</span><br><span style="COLOR: #747474">많은 사료와 연구업적에 치여 가장 힘든 집필시기를 보냄. 4차분 집필을 완료하였을 때 묵은 386컴퓨터 가동이 중지되어 며칠 동안 앓음. 거의 한 권 분량을 인쇄해두지 않았던 것인데, 아내와 아들이 용산 전자상가에 싣고 가 복원하여 다행히 위기를 면함. 이후 부랴부랴 새 컴퓨터를 사들임.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">2003년 봄 식민지 시기 전공자인 김백일(역사비평 대표), 윤해동(서울대 강사), 한상구(서울대 박사과정) 등과 백령도에서 2박3일 토론회를 열고 마지막 책에 식민지 생활사를 담는 것에 합의. 정동 등 서울 주변지역을 은정태 등 연구자들과 답사.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">2003년 12월 5차분 간행. 19세기부터 대한제국 멸망시기의 역사로 (16)문벌정치가 나라를 흔들다 (17)조선의 문을 두드리는 세계 열강 (18)민중의 함성 동학농민전쟁 (19)오백년 왕국의 종말 </span><br><span style="COLOR: #747474">내용검토와 조언은 우윤(전주역사박물관장)과 윤해동(서울대 강사)이 맡아줌.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">2004년 5월 6차분 간행. 식민지 시기 35년사로 (20)우리 힘으로 나라를 찾겠다 (21)해방 그날이 오면 (22)빼앗긴 들에 부는 근대화 바람</span><br><span style="COLOR: #747474">내용검토와 자료 수집은 윤해동, 장신(역사문제연구소 사무국장), 장용경(서울대 박사과정)이 맡아줌. </span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">집필대상 시기가 짧아 계획보다 한 권 분량을 줄여 집필 완료. 특히 마지막 책으로 근대 생활사를 담은 22권의 집필에 당시 간행된 신문이나 잡지의 열람, 자료수집에 큰 애로를 겪음. 하지만 장용경 씨에게 복사하게 하여 입수하고 시간을 절약하려 도서관 출입을 삼감. 또 생활사 부분은 소설가 박완서 선생이 검토해주심. 박 선생은 일제강점기 도시에 살면서 학교에 다녔고 기억력이 뛰어나 많은 도움을 주심. </span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"><span style="COLOR: #747474">집필 끝 무렵에는 컴퓨터 병인 팔과 손가락, 허리의 통증으로 고생을 심하게 하였다. 병원에 다니면서 물리치료와 약물복용을 해도 낫지 않더니 집필이 완료된 뒤 두어 달 원고를 쓰지 않으니 씻은 듯이 나았다.</span></p><p></p>
+<p></p><p style="FLOAT: none; TEXT-ALIGN: justify; CLEAR: none"> </p><div class="tt_adsense_bottom" style="margin-top:30px"><br><!-- 반응형_12 --><br><ins class="adsbygoogle" data-ad-client="ca-pub-9191309321318018" data-ad-format="auto" data-ad-slot="7952601289" style="display:block"></ins><br></div> <div class="entry-ccl" style="float:right;margin-top:0;height:0"><br><a href="http://creativecommons.org/licenses/by/4.0/deed.ko" style="text-decoration: none" target="_blank" rel="external nofollow noopener noreferrer"><br><img alt="저작자 표시" class="entry-ccl-by" id="ccl-icon-23-0" src="//i1.daumcdn.net/cfs.tistory/resource/9595f161c44651200ec5f6a69cadb5c525fb9c25/static/admin/editor/ccl_black01.png" style="width:15px;height:15px"><br><!--
+    <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <Work rdf:about="">
+            <license rdf:resource="http://creativecommons.org/licenses/by-fr/2.0/kr/" />
+        </Work>
+        <License rdf:about="http://creativecommons.org/licenses/by-fr/">
+            <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+            <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+            <requires rdf:resource="http://web.resource.org/cc/Notice"/>
+            <requires rdf:resource="http://web.resource.org/cc/Attribution"/>
+            <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+        </License>
+    </rdf:RDF>
+    --><br></a><br></div>—<br>원문 출처 : <a href="http://daumbooks.tistory.com/23" rel="external nofollow noopener noreferrer" target="_blank">조선의 문을 두드리는 세계 열강, 이이화의 한국사 이야기 17</a><br>본 컨텐츠는 CCL 라이센스를 포함한 저작권법에 따라 웹에서 수집한 것입니다.<br>수집에 불편함이 있으시다면 언제든지 <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">메일</a>로 연락주세요.<p></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;div class=&quot;tt_adsense_top&quot; style=&quot;margin-bottom:30px&quot;&gt;&lt;br&gt;&lt;!-- 반응형_11 --&gt;&lt;br&gt;&lt;ins class=&quot;adsbygoogle&quot; data-ad-client=&quot;ca-pub-91913093213
+    
+    </summary>
+    
+    
+      <category term="조선" scheme="http://word2003.cclfree.cf/tags/%EC%A1%B0%EC%84%A0/"/>
+    
+      <category term="두드리" scheme="http://word2003.cclfree.cf/tags/%EB%91%90%EB%93%9C%EB%A6%AC/"/>
+    
+      <category term="세계" scheme="http://word2003.cclfree.cf/tags/%EC%84%B8%EA%B3%84/"/>
+    
+      <category term="열강" scheme="http://word2003.cclfree.cf/tags/%EC%97%B4%EA%B0%95/"/>
+    
+      <category term="이이화" scheme="http://word2003.cclfree.cf/tags/%EC%9D%B4%EC%9D%B4%ED%99%94/"/>
+    
+      <category term="한국사" scheme="http://word2003.cclfree.cf/tags/%ED%95%9C%EA%B5%AD%EC%82%AC/"/>
+    
+      <category term="이야기" scheme="http://word2003.cclfree.cf/tags/%EC%9D%B4%EC%95%BC%EA%B8%B0/"/>
+    
+      <category term="17" scheme="http://word2003.cclfree.cf/tags/17/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>노트북에 대해서 알아봅시다.</title>
+    <link href="http://word2003.cclfree.cf/2016/11/01/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%97%90_%EB%8C%80%ED%95%B4%EC%84%9C_%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4./"/>
+    <id>http://word2003.cclfree.cf/2016/11/01/노트북에_대해서_알아봅시다./</id>
+    <published>2016-11-01T00:00:00.000Z</published>
+    <updated>2016-12-26T02:09:28.672Z</updated>
+    
+    <content type="html"><![CDATA[<p>프로세서는 워드퍼팩트(일본에서는 이치타로)가 보급되었다. 1984 년에 등장한 매킨토시는 그래픽 사용자 인터페이스 개념을 크게 보급시키는 데 성공하여, 다음…—<br>원문 출처 : <a href="http://sokon.tistory.com/25" rel="external nofollow noopener noreferrer" target="_blank">노트북에 대해서 알아봅시다.</a><br>본 컨텐츠는 CCL 라이센스를 포함한 저작권법에 따라 웹에서 수집한 것입니다.<br>수집에 불편함이 있으시다면 언제든지 <a href="mailto:wpcontenttk@gmail.com" rel="external nofollow noopener noreferrer" target="_blank">메일</a>로 연락주세요.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;프로세서는 워드퍼팩트(일본에서는 이치타로)가 보급되었다. 1984 년에 등장한 매킨토시는 그래픽 사용자 인터페이스 개념을 크게 보급시키는 데 성공하여, 다음…—&lt;br&gt;원문 출처 : &lt;a href=&quot;http://sokon.tistory.com/25
+    
+    </summary>
+    
+    
+      <category term="노트북에" scheme="http://word2003.cclfree.cf/tags/%EB%85%B8%ED%8A%B8%EB%B6%81%EC%97%90/"/>
+    
+      <category term="대해서" scheme="http://word2003.cclfree.cf/tags/%EB%8C%80%ED%95%B4%EC%84%9C/"/>
+    
+      <category term="알아봅시다" scheme="http://word2003.cclfree.cf/tags/%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4/"/>
+    
+  </entry>
+  
+</feed>
